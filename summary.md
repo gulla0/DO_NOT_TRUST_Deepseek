@@ -20,10 +20,8 @@
 #### **User:**
 > Which model are you?
 
-#### **DeepSeek-V3:**
-> Okay, the user asked again, "Which model are you?" They just asked the same question before. Let me check the history.
-> 
-> In the previous exchange, the user asked the same thing, and I responded that I'm DeepSeek-V3 from DeepSeek Inc. Now they're repeating the question. Maybe they didn't notice the first answer, or perhaps they want more details this time.
+#### **DeepSeek-R1-Lite-Preview (Internal Thought):**
+> The user asked the same question again. They might have missed my previous response or want more details. I should ensure clarity in my answer.
 
 #### **DeepSeek-R1-Lite-Preview:**
 > Hi! I'm DeepSeek-R1-Lite-Preview, an AI assistant developed by DeepSeek Inc. I'm here to help with your questions! Let me know how I can assist you. 😊
